@@ -1,11 +1,9 @@
-# He4rtLabs -> Challenges
+# He4rtLabs Challenges
 
-> Listing some playful open-source's challenges of jobs to test your knowledge
+O intuito deste repositório é criar novos desafios para a comunidade resolver e expandir o próprio portfólio e manter sempre uma contribuição para a comunidade.
 
-The main objective of repository is testing your knowledge using real jobs challenge. :smiley_cat:
+Mensalmente será adicionado um ou mais desafios para este repositório e deverá ser realizado batendo todos os critérios de aceite descritos na documentação do projeto.
 
-Follows some playful (just open-source! :warning:) challenges of jobs.
-
-| Company                  | Stack          | Nível     | Test              |
-| ------------------------ | -------------- | --------- | ----------------- |
-| Calculadora de Freelance | HTML, CSS e JS | Iniciante | [Acessar Teste]() |
+| Company                  | Stack          | Nível     | Test           |
+| ------------------------ | -------------- | --------- | -------------- |
+| Calculadora de Freelance | HTML, CSS e JS | Iniciante | [Em criação]() |
