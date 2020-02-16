@@ -6,4 +6,4 @@ Mensalmente será adicionado um ou mais desafios para este repositório e dever�
 
 | Teste                    | Stack          | Nível     | Link           |
 | ------------------------ | -------------- | --------- | -------------- |
-| Calculadora de Freelance | HTML, CSS e JS | Iniciante | [Em criação]() |
+| Calculadora de Freelance | HTML, CSS e JS | Iniciante | [he4rtlabs-challenges-01](https://github.com/he4rtlabs/he4rtlabs-challenges-01) |
