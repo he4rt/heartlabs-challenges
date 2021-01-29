@@ -12,6 +12,6 @@ Mensalmente será adicionado um ou mais desafios para este repositório e dever�
 
 | Teste                    | Stack          | Nível     | Link           |
 | ------------------------ | -------------- | --------- | -------------- |
-| Calculadora de hora p/ Freelance | HTML, CSS e JS | Iniciante | [he4rtlabs-challenges-01](https://github.com/he4rtlabs/he4rtlabs-challenges-01) |
-| Planilha de cotação p/ Freelance | HTML, CSS e JS | Iniciante | [he4rtlabs-challenges-02](https://github.com/he4rtlabs/he4rtlabs-challenges-02) |
-| Formulário Único <img alt="Badge de NOVO" src="https://img.shields.io/badge/-NOVO-green"> | HTML, CSS e JS | Iniciante | [he4rtlabs-challenges-03](https://github.com/he4rtlabs/he4rtlabs-challenges-03) |
+| Calculadora de hora p/ Freelance | Front-End | Iniciante | [he4rtlabs-challenges-01](https://github.com/he4rtlabs/he4rtlabs-challenges-01) |
+| Planilha de cotação p/ Freelance | Front-End | Iniciante | [he4rtlabs-challenges-02](https://github.com/he4rtlabs/he4rtlabs-challenges-02) |
+| Formulário Único <img alt="Badge de NOVO" src="https://img.shields.io/badge/-NOVO-green"> | Full-Stack | Iniciante | [he4rtlabs-challenges-03](https://github.com/he4rtlabs/he4rtlabs-challenges-03) |
